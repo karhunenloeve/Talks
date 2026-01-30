@@ -8,36 +8,26 @@ Startseite: https://karhunenloeve.github.io/Talks/
 
 ## Talks
 
-- [Homological Perspective on Data][hp_pages]  
-  Platzhalter Zusammenfassung aus dem Titel abgeleitet. Überblick über homologische Methoden in der Datenanalyse und typische Pipeline Ideen aus TDA. Erwartbar sind Kernbegriffe wie Homologie, Filtrationen und robuste topologische Invarianten.  
-  Download: [raw][hp_raw]
+- **[Homological Analysis of Sensor Signals from Power Plants](https://karhunenloeve.github.io/Talks/Homological%20Analysis%20of%20Sensor%20Signals%20from%20Power%20Plants.pdf)**  
+  ⬇️ **[Download](https://github.com/karhunenloeve/Talks/raw/main/Homological%20Analysis%20of%20Sensor%20Signals%20from%20Power%20Plants.pdf)**
 
-- [Introduction to Persistent Homology][ph_pages]  
-  Platzhalter Zusammenfassung aus dem Titel abgeleitet. Einführung in Persistente Homologie mit Filtrationen, Persistenzdiagrammen und Stabilität. Typischerweise mit Beispielen aus Punktwolken und Vietoris Rips oder Čech Komplexen.  
-  Download: [raw][ph_raw]
+- **[Homological Inference of Embedding Dimensions in Neural Networks](https://karhunenloeve.github.io/Talks/Homological%20Inference%20of%20Embedding%20Dimensions%20in%20Neural%20Networks.pdf)**  
+  ⬇️ **[Download](https://github.com/karhunenloeve/Talks/raw/main/Homological%20Inference%20of%20Embedding%20Dimensions%20in%20Neural%20Networks.pdf)**
 
-- [Konstruktion des Jonespolynoms aus Uq(sl2)][jones_pages]  
-  Platzhalter Zusammenfassung aus dem Titel abgeleitet. Herleitung des Jones Polynoms über die Quantenalgebra \(U_q(\mathfrak{sl}_2)\), meist via R Matrix und Zopfgruppen Darstellungen. Erwartbar ist die Verbindung von Knotentheorie, Invarianten und Darstellungstheorie.  
-  Download: [raw][jones_raw]
+- **[Homological Perspective on Data](https://karhunenloeve.github.io/Talks/Homological%20Perspective%20on%20Data.pdf)**  
+  ⬇️ **[Download](https://github.com/karhunenloeve/Talks/raw/main/Homological%20Perspective%20on%20Data.pdf)**
 
-- [Leray Serre Spektralsequenz][lss_pages]  
-  Platzhalter Zusammenfassung aus dem Titel abgeleitet. Darstellung der Leray Serre Spektralsequenz zur Berechnung von Kohomologie oder Homologie von Faserungen aus Basis und Faser. Typisch sind Konvergenz, Differenziale und Beispielrechnungen.  
-  Download: [raw][lss_raw]
+- **[Introduction to Persistent Homology](https://karhunenloeve.github.io/Talks/Introduction%20to%20Persistent%20Homology.pdf)**  
+  ⬇️ **[Download](https://github.com/karhunenloeve/Talks/raw/main/Introduction%20to%20Persistent%20Homology.pdf)**
 
-- [Universal Coefficients and Mayer Vietoris for Ample Groupoids][ucmv_pages]  
-  Platzhalter Zusammenfassung aus dem Titel abgeleitet. Universeller Koeffizientensatz und Mayer Vietoris Sequenz im Kontext ampler Gruppoide, mit Fokus auf Homologie Konstruktionen und Exzision über geeignete Überdeckungen. Erwartbar sind Anwendungen auf Berechnung von Gruppoid Homologien.  
-  Download: [raw][ucmv_raw]
+- **[Konstruktion des Jonespolynoms aus Uq(sl2)](https://karhunenloeve.github.io/Talks/Konstruktion%20des%20Jonespolynoms%20aus%20Uq%28sl2%29.pdf)**  
+  ⬇️ **[Download](https://github.com/karhunenloeve/Talks/raw/main/Konstruktion%20des%20Jonespolynoms%20aus%20Uq%28sl2%29.pdf)**
 
-## Links
+- **[Leray-Serre Spektralsequenz](https://karhunenloeve.github.io/Talks/Leray-Serre%20Spektralsequenz.pdf)**  
+  ⬇️ **[Download](https://github.com/karhunenloeve/Talks/raw/main/Leray-Serre%20Spektralsequenz.pdf)**
 
-[hp_pages]: https://karhunenloeve.github.io/Talks/Homological%20Perspective%20on%20Data.pdf
-[ph_pages]: https://karhunenloeve.github.io/Talks/Introduction%20to%20Persistent%20Homology.pdf
-[jones_pages]: https://karhunenloeve.github.io/Talks/Konstruktion%20des%20Jonespolynoms%20aus%20Uq%28sl2%29.pdf
-[lss_pages]: https://karhunenloeve.github.io/Talks/Leray-Serre%20Spektralsequenz.pdf
-[ucmv_pages]: https://karhunenloeve.github.io/Talks/Universal%20Coefficients%20and%20Mayer-Vietoris%20for%20Ample%20Groupoids.pdf
+- **[Stop Interpolation Topologically](https://karhunenloeve.github.io/Talks/Stop%20Interpolation%20Topologically.pdf)**  
+  ⬇️ **[Download](https://github.com/karhunenloeve/Talks/raw/main/Stop%20Interpolation%20Topologically.pdf)**
 
-[hp_raw]: https://github.com/karhunenloeve/Talks/raw/main/Homological%20Perspective%20on%20Data.pdf
-[ph_raw]: https://github.com/karhunenloeve/Talks/raw/main/Introduction%20to%20Persistent%20Homology.pdf
-[jones_raw]: https://github.com/karhunenloeve/Talks/raw/main/Konstruktion%20des%20Jonespolynoms%20aus%20Uq%28sl2%29.pdf
-[lss_raw]: https://github.com/karhunenloeve/Talks/raw/main/Leray-Serre%20Spektralsequenz.pdf
-[ucmv_raw]: https://github.com/karhunenloeve/Talks/raw/main/Universal%20Coefficients%20and%20Mayer-Vietoris%20for%20Ample%20Groupoids.pdf
+- **[Universal Coefficients and Mayer-Vietoris for Ample Groupoids](https://karhunenloeve.github.io/Talks/Universal%20Coefficients%20and%20Mayer-Vietoris%20for%20Ample%20Groupoids.pdf)**  
+  ⬇️ **[Download](https://github.com/karhunenloeve/Talks/raw/main/Universal%20Coefficients%20and%20Mayer-Vietoris%20for%20Ample%20Groupoids.pdf)**
